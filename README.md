@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tunde-Akinlalu
-- 👀 I’m interested in Data Analysis, visualization - especially dashboard
+- 👀 I’m interested in Python Development, Data Analysis, visualization - especially dashboard
 - 🌱 I’m currently learning everything python  
 - 💞️ I’m looking to collaborate on data projects, visualization and everything python that gives adrenaline rush
 - 📫 How to reach me - tunde-akinlalu@outlook.com
